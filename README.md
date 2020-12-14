@@ -1,8 +1,8 @@
 # What I had learned in this lecture :
 
 + how to creat files in VS and then export them to Github by using Git-flow steps
-+ how to design new websit using VS in html language
- (from the book we read there are manythings to focus on it to bulid a good and atractive website like audience ..etc)
++ how to design new website using VS in html language
+ (from the book we read there are many things to focus on it to build a good and attractive website like audience ..etc.)
 
  + Understanding structure
  + Learning about markup
