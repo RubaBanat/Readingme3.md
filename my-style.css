@@ -20,11 +20,13 @@ body {
 
 section nav ul li {
     display: inline;
-    font-size: 15px;
+    font-size: 17px;
     margin-top: 20px;
     margin-right: 50px;
     margin-left: 50px;
     border-style: dotted;
+    background-color:rgba(128, 128, 128, 0.603);
+    color: black;
 }
 .center {
     display: block;
