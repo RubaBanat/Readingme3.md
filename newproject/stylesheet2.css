@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+.hero{
+    height: 100%;
+    width: 100%;
+    background-image: url(/newproject/images/back1.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.form-box{
+    width: 350px;
+    height: 460px;
+    position: relative;
+    margin: 6% auto;
+    background: white ;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 0 14px 28px black , 0 10px 10px black;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-left: 50%;
+
+}
+.button-box{
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px rgb(95, 88, 27);
+    border-radius: 30px;
+}
+.toggle1 {
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+}
+
+#btn {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, rgb(132, 134, 56), rgb(58, 44, 15) );
+    border-radius: 50px;
+    transition: 0.5s;
+
+}
+.social-icons{
+    margin: 30px auto;
+    text-align: center;
+}
+.social-icons img{
+    width: 35px;
+    margin: 0 12px;
+    box-shadow: 0 0 20px 0 rgb(165, 141, 93);
+    cursor: pointer;
+    border-radius: 50%;
+}
+.input-group{
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgb(165, 141, 93);
+    outline: none;
+    background: transparent;
+}
+.submit-btn{
+    width: 85%; 
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, rgb(132, 134, 56), rgb(58, 44, 15));
+    border:0 ;
+    outline: none;
+    border-radius: 30px;
+
+}
+.check-box{
+    margin: 30px 3px 30px 0;
+
+}
+label {
+    color: #777;
+    font-size: 12px;
+    bottom: 68px;
+}
+#login {
+  left:30px  
+}
+#register {
+    left:450px  
+  }
