@@ -7,7 +7,7 @@
 .hero{
     height: 100%;
     width: 100%;
-    background-image: url(/newproject/images/back1.jpg);
+    background-image: url(/images/back1.jpg);
     background-position: center;
     background-size: cover;
     position: absolute;
